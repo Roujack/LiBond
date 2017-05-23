@@ -1,8 +1,0 @@
-{"level":"info","message":"now my debug message are","timestamp":"2017-03-02T02:29:39.338Z"}
-{"level":"debug","message":"now my debug message are","timestamp":"2017-03-02T02:30:22.481Z"}
-{"anything":"thsi is metadata","level":"debug","message":"now my debug message are","timestamp":"2017-03-02T02:43:31.106Z"}
-2017-03-02T09:10:13.883Z - [34mdebug[39m: Redis connected 127.0.0.1:6379
-2017-03-02T09:10:13.979Z - [34mdebug[39m: Mongodb API connected to: mongodb://super:325890@127.0.0.1:27017/timeBank
-2017-03-02T09:10:18.417Z - [34mdebug[39m: /user/login
-2017-03-02T09:10:18.418Z - [34mdebug[39m: req.body:{"phone":"13025429718","password":"123456"}
-2017-03-02T09:10:18.452Z - [34mdebug[39m: Token set in Redis:  OK
