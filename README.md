@@ -14,4 +14,30 @@ redis存储一些用户验证的数据。前端通过调用后端的接口进行
 项目感兴趣的话，欢迎和我联系。
 
 ## APP功能展示
-![](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161807.jpg)
+打开APP会进入登录界面，如果用户没有账号，需要注册：
+![登录界面](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161817.jpg)
+登录以后，将会进入APP主界面，可以看到，APP分为五大板块：互助圈、任务、推送、聊天、通知。
+![主界面](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161821.jpg)
+### 个人中心
+点击头像，会进入个人中心：
+![个人中心，管理用户自己的一些信息](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161807.jpg)
+![查看我的钱包](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161837.jpg)
+在我的钱包下面，有libond商城，是用来兑换奖品的。用户可以拿荔枝兑换喜欢的物品：
+![liBond商城](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161843.jpg)
+### 互助圈
+在互助圈，可以发布帖子，也可以浏览别人发布的帖子，并领取感兴趣的任务：
+![发布一个帖子](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161826.jpg)
+![浏览帖子](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161831.jpg)
+### 任务
+在任务一栏，分我领取的任务以及我发布的帖子两个部分：
+![我发布的帖子](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161854.jpg)
+### 推送
+推送是指平台中心希望发布给所有用户的文章。比如平台使用手册：
+![推送界面](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161858.jpg)
+### 聊天
+聊天栏是用户对帖子感兴趣的时候，可以对发帖人进行询问。
+![聊天界面](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161908.jpg)
+
+### 通知
+通知栏为系统给用户的信息，比如用户报名你的帖子啊，以及你的帖子被举报啊，还有其他信息等：
+![系统通知](https://github.com/Roujack/LiBond/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170523161912.jpg)
